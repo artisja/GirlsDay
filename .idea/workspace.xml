@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a43c90-c58f-4f5e-91b5-5c5bb1ec7871" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AdjustedPerson.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GirlsDay/Submission.class" afterPath="$PROJECT_DIR$/out/production/GirlsDay/Submission.class" />
+    <list default="true" id="73a43c90-c58f-4f5e-91b5-5c5bb1ec7871" name="Default" comment="First commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GirlsDay.iml" afterPath="$PROJECT_DIR$/GirlsDay.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Submission.java" afterPath="$PROJECT_DIR$/src/Submission.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -393,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492629746030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1493831748539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493831748539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
